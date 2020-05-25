@@ -1,0 +1,58 @@
+﻿@page
+@model TesteDevJR.Pages.Cidades.AddModel
+@{
+    ViewData["Title"] = "Adicionar Nova Cidade";
+}
+
+<div>
+    <div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title"><strong>Nova Cidade</strong></h3>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-4 item_img">
+                        <img src="https://image.flaticon.com/icons/png/512/1725/1725859.png" class="img-responsive">
+                    </div>
+                    <div class="col-md-8 item_content">
+                        <form method="post">
+                            <h4>
+                                <span>Informe os dados da cidade!!!</span>
+                            </h4>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="panel">
+                                            <div class="panel-body">
+                                                <div class="col-md-12" style="margin-top:15px;">
+                                                    <label asp-for="Cidade.NomeCidade" style="font-weight:bold;"></label>
+                                                    <input type='text' class='form-control' asp-for="Cidade.NomeCidade" />
+                                                    <span class="alert-danger" asp-validation-for="Cidade.NomeCidade"></span>
+                                                </div>
+                                                <div class="col-md-12" style="margin-top:15px;">
+                                                    <label asp-for="Cidade.UF" style="font-weight:bold;"></label>
+                                                    <input type='text' class='form-control' asp-for="Cidade.UF" />
+                                                    <span class="alert-danger" asp-validation-for="Cidade.UF"></span>
+                                                </div>
+                                                <div class="text-center col-md-12" style="margin-top:35px;">
+                                                    <button class="btn btn-primary btn-sx" type="submit">
+                                                        <i class="glyphicon glyphicon-plus"></i> Adicionar Cidade
+                                                    </button>
+                                                    <a class="btn btn-success btn-sx" asp-page="/Index">
+                                                        <i class="glyphicon glyphicon-backward"></i> Lista de Cidades
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
