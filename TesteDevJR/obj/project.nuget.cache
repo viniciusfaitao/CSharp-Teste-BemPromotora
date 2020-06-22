@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z/OY+WiJEhy4/nUHeSFpuDdHOh0Uu4/2klE9sVjLEJmAs1n9L1HygxIbc/OhKCF2z9lgDByElQo2/V3HE/QzMQ==",
+  "dgSpecHash": "u4c4ORtKB+Z8byqcVpow5ECL3DJN1dwDb19hFsh29/w7gSNUW4vND1T+UqQ/5JfpzPw1ROIWBjCZ0PYmXsSQoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteDevJR\\TesteDevJR.csproj",
+  "projectFilePath": "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteBemPromotoraDevJR\\TesteDevJR\\TesteDevJR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vini\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\Vini\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",

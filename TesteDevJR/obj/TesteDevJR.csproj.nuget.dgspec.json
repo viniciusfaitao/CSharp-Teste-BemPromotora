@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteDevJR\\TesteDevJR.csproj": {}
+    "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteBemPromotoraDevJR\\TesteDevJR\\TesteDevJR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteDevJR\\TesteDevJR.csproj": {
+    "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteBemPromotoraDevJR\\TesteDevJR\\TesteDevJR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteDevJR\\TesteDevJR.csproj",
+        "projectUniqueName": "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteBemPromotoraDevJR\\TesteDevJR\\TesteDevJR.csproj",
         "projectName": "TesteDevJR",
-        "projectPath": "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteDevJR\\TesteDevJR.csproj",
+        "projectPath": "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteBemPromotoraDevJR\\TesteDevJR\\TesteDevJR.csproj",
         "packagesPath": "C:\\Users\\Vini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteDevJR\\obj\\",
+        "outputPath": "C:\\Users\\Vini\\source\\repos\\TesteDevJR\\TesteBemPromotoraDevJR\\TesteDevJR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vini\\AppData\\Roaming\\NuGet\\NuGet.Config",
